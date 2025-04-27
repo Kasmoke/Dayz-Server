@@ -1,0 +1,91 @@
+{
+    "m_Version": 12,
+    "DisplayName": "WTEAMT VODKA & CIGARETTES",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75,
+    "Items": [
+        {
+            "ClassName": "wt_smoke_cigarpack_kosmos",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "wt_smoke_cigarpack_camal",
+                "wt_smoke_cigarpack_mallabro",
+                "wt_smoke_cigarpack_magma",
+                "wt_smoke_cigarpack_ronin"
+            ]
+        },
+        {
+            "ClassName": "wt_stakan_vodka_glass_A",
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 2500,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "wt_smoke_matchbox",
+            "MaxPriceThreshold": 400,
+            "MinPriceThreshold": 400,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "wt_smoke_matchbox_01",
+                "wt_smoke_matchbox_02"
+            ]
+        },
+        {
+            "ClassName": "wt_smoke_tabak_bag",
+            "MaxPriceThreshold": 750,
+            "MinPriceThreshold": 750,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "wt_smoke_tabak_paper",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 200,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "wt_smoke_tabak_paper_02",
+                "wt_smoke_tabak_paper_03"
+            ]
+        },
+        {
+            "ClassName": "AP_alazrael_dice",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 200,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "wt_smoke_tabak_paper_02",
+                "wt_smoke_tabak_paper_03"
+            ]
+        }
+
+    ]
+}
